@@ -1,0 +1,23 @@
+{
+  "name": "vindexer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "video-indexer": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterGunner/Vindexer-Test.git"
+  },
+  "author": "Master Gunner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasterGunner/Vindexer-Test/issues"
+  },
+  "homepage": "https://github.com/MasterGunner/Vindexer-Test#readme"
+}
